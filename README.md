@@ -13,11 +13,11 @@
 
 ## 🚀 Featured Projects
 
-### 🔹 ATM Cash Demand Forecasting System
-📌 *Time-Series Forecasting • Financial Infrastructure*  
-A production-oriented forecasting system to predict ATM cash requirements, optimizing replenishment cycles while reducing shortages and idle cash under real-world constraints.  
-**Tech:** Python, Pandas, Scikit-learn, Time-Series Models  
-🔗 https://github.com/Shau-19/ATM_Cash_Demand_Forecasting_System
+### 🔹 AI Business Analyst
+📌 *LLMs • Decision Intelligence*  
+An AI-powered system that transforms raw business data into structured insights to support faster and more reliable business decision-making.  
+**Tech:** Python, LLMs, Analytics Pipelines  
+🔗 https://github.com/Shau-19/ai-business-analyst
 
 ---
 
@@ -37,11 +37,14 @@ A reliability-first ML framework introducing curriculum-aware guardrails to stab
 
 ---
 
-### 🔹 AI Business Analyst
-📌 *LLMs • Decision Intelligence*  
-An AI-powered system that transforms raw business data into structured insights to support faster and more reliable business decision-making.  
-**Tech:** Python, LLMs, Analytics Pipelines  
-🔗 https://github.com/Shau-19/ai-business-analyst
+### 🔹 ATM Cash Demand Forecasting System
+📌 *Time-Series Forecasting • Financial Infrastructure*  
+A production-oriented forecasting system to predict ATM cash requirements, optimizing replenishment cycles while reducing shortages and idle cash under real-world constraints.  
+**Tech:** Python, Pandas, Scikit-learn, Time-Series Models  
+🔗 https://github.com/Shau-19/ATM_Cash_Demand_Forecasting_System
+
+
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
