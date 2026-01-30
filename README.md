@@ -22,7 +22,7 @@ An AI-powered system that transforms raw business data into structured insights 
 ---
 
 ### 🔹 WhatsApp Fake News Checker
-📌 *NLP • Misinformation Detection • Multilingual Systems*  
+📌 *NLP • Misinformation Detection • Multilingual Systems • Deep Learning • Fine Tuning*  
 A hybrid NLP system designed to detect and flag fake news circulating on WhatsApp. The model combines **TF-IDF features with transformer-based embeddings**, leveraging **BERT** for semantic understanding and **XLM-RoBERTa (base)** to support **multilingual content**, enabling robust misinformation detection across diverse languages.  
 **Tech:** Python, BERT, XLM-RoBERTa (base), TF-IDF, ML Classification  
 🔗 https://github.com/Shau-19/Whatsapp_Fake_News_Checker
