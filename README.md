@@ -13,6 +13,22 @@
 
 ## 🚀 Featured Projects
 
+### 🔹 Paper2Signal
+📌 *Agentic AI • Research Intelligence*  
+An agentic research intelligence system that clusters ArXiv papers with **UMAP dimensionality reduction and HDBSCAN clustering**, then routes them through a **4-stage LangGraph pipeline** (classification, DeepSeek-R1 scoring, synthesis, hype-detection) built around a **GRPO fine-tuned Qwen2.5** model. A PyMuPDF-based indexing layer with BM25 + FAISS + cross-encoder reranking reaches **Precision@5 = 0.64**.  
+**Tech:** Python, LangGraph, PyTorch, Qwen2.5, ChromaDB, FAISS  
+🔗 https://github.com/Shau-19/Paper2Signal
+
+---
+
+### 🔹 VeritasAI
+📌 *Distributed Systems • ML Evaluation*  
+A distributed ML job and evaluation platform separating **FastAPI** services from **Redis-backed Celery** workers, with **PostgreSQL** job state, authenticated callbacks, and concurrent evaluation over **asyncio** — exposing live execution telemetry through **SSE**.  
+**Tech:** Python, FastAPI, Celery, Redis, PostgreSQL, asyncio  
+🔗 https://github.com/Shau-19/Veritas-AI
+
+---
+
 ### 🔹 AI Business Analyst
 📌 *LLMs • Decision Intelligence*  
 An AI-powered system that transforms raw business data into structured insights to support faster and more reliable business decision-making.  
@@ -43,21 +59,7 @@ A production-oriented forecasting system to predict ATM cash requirements, optim
 **Tech:** Python, Pandas, Scikit-learn, Time-Series Models  
 🔗 https://github.com/Shau-19/ATM_Cash_Demand_Forecasting_System
 
----
 
-### 🔹 Paper2Signal
-📌 *Agentic AI • Research Intelligence*  
-An agentic research intelligence system that clusters and scores incoming papers through a multi-stage LangGraph pipeline, pairing retrieval-augmented generation with a fine-tuned reasoning model to surface which papers are worth acting on.  
-**Tech:** Python, LangGraph, PyTorch, RAG  
-🔗 https://github.com/Shau-19/Paper2Signal
-
----
-
-### 🔹 VeritasAI
-📌 *Distributed Systems • ML Evaluation*  
-A distributed ML job and evaluation platform separating API services from background workers, built to run and score long-running ML workloads reliably at scale.  
-**Tech:** Python, FastAPI, Celery, Redis, PostgreSQL  
-🔗 https://github.com/Shau-19/Veritas-AI
 
 
 
